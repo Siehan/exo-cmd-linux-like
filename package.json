@@ -1,0 +1,6 @@
+{
+  "name": "exo-cmd-linux-like",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
